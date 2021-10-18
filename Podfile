@@ -6,5 +6,6 @@ target 'Core' do
 use_frameworks!
  
 # Pods for Core
+source 'https://github.com/gotamafandy/Fandy-Dicoding-CorePodSpecs'
  
 end 
