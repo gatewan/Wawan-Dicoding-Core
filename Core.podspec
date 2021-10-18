@@ -10,7 +10,7 @@ s.summary = "Dicoding Core.framework for modularization chapter"
 
 s.requires_arc = true
 
-s.version = "1.0.1"
+s.version = "0.2.0"
 
 s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Wawan Beneran" => "gatewawan@ymail.com" }
